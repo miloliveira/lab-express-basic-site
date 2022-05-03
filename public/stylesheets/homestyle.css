@@ -1,0 +1,29 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+}
+
+.middleDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 5%;
+}
+
+#homepageimg {
+  width: 40vw;
+  border-radius: 2px;
+}
+
+#homepageHeading {
+  font-size: 300%;
+}
+
+#introDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right: 10%;
+  padding-left: 5%;
+}

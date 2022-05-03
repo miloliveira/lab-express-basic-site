@@ -1,0 +1,60 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+}
+
+.aboutIntro {
+  width: 50%;
+  margin-top: 3%;
+  margin-left: 4%;
+  margin-right: 3%;
+}
+
+.aboutInfoDiv {
+  display: flex;
+  flex-direction: row;
+  margin: 2%;
+}
+
+.innerDiv {
+  width: 100%;
+  margin: 3%;
+  padding-right: 3%;
+}
+
+.imgAbout {
+  width: 80%;
+}
+
+#abouth3 {
+  margin-top: 10%;
+}
+
+.aboutMidDiv {
+  display: flex;
+  flex-direction: column;
+  margin: 3%;
+}
+/*
+.aboutInfoDiv{
+    margin: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#aboutimg1{
+    width: 75%;
+    padding-bottom: 5%;
+}
+
+#aboutimg2{
+    width: 75%;
+    padding-bottom: 5%;
+}
+
+#aboutimg3{
+    width: 75%;
+    padding-bottom: 5%;
+} */
